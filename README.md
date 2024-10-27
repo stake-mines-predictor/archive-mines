@@ -1,2 +1,2 @@
-# archive-crash
+# archive-mines
 1
